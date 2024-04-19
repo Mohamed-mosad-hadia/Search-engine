@@ -6,7 +6,7 @@
 </div>
 <be>
 
-# The Search Engine Within:
+# Rcommendation System Within:
 
 Imagine a powerful search engine specifically designed for jobs. This engine, fueled by your skills, experience, and preferences, works in multiple steps:
 
